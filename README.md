@@ -9,3 +9,4 @@ Java
 Android Studio
 Android TextToSpeech API
 XML Layouts
+Emulator
